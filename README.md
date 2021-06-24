@@ -1,1 +1,1 @@
-# class-25pro
+# CP-2
